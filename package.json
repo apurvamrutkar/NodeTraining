@@ -1,0 +1,21 @@
+{
+  "name": "sample1",
+  "version": "1.0.0",
+  "description": "Node Sample 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "apurv",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "express-validator": "^2.9.0",
+    "hat": "0.0.3",
+    "moment": "^2.9.0",
+    "multer": "^0.1.8",
+    "nodemailer": "^1.3.2",
+    "underscore": "^1.8.2"
+  }
+}
